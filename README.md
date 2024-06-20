@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LakshayKatariaa
+- 👀 I’m interested in android apps developer
+- 🌱 I’m currently learning C language
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Coding Bugs were NOT named after an actual bug
